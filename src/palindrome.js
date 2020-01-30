@@ -16,3 +16,4 @@ palindrome("hey")
 const newArray = ["a", "n", "n",]
 console.log(newArray.join(""))
 console.log(newArray)
+
