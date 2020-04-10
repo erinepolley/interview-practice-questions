@@ -17,3 +17,10 @@ const newArray = ["a", "n", "n",]
 console.log(newArray.join(""))
 console.log(newArray)
 
+const expArray = ["save", "our", "ship"]
+console.log(expArray.join(""))
+
+var str = "HELLO WORLD";
+var res = str.charAt(0);
+console.log(res)
+
